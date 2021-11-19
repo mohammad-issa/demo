@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "id": "modern",
+      "name": "Modern",
+      "img": "https://storage.googleapis.com/modern-doors-models/model-1.jpeg"
+    },
+    {
+      "id": "classic",
+      "name": "Classic",
+      "img": "https://storage.googleapis.com/modern-doors-models/model-1.jpeg"
+    }
+  ]
+}

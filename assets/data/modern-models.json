@@ -1,0 +1,34 @@
+{
+  "models": [
+    {
+      "id": "model-a",
+      "name": "Model-A",
+      "img": "https://storage.googleapis.com/modern-doors-models/model-1.jpeg"
+    },
+    {
+      "id": "model-b",
+      "name": "Model-B",
+      "img": "https://storage.googleapis.com/modern-doors-models/model-2.jpeg"
+    },
+    {
+      "id": "model-c",
+      "name": "Model-C",
+      "img": "https://storage.googleapis.com/modern-doors-models/model-3.jpeg"
+    },
+    {
+      "id": "model-d",
+      "name": "Model-D",
+      "img": "https://storage.googleapis.com/modern-doors-models/model-4.jpeg"
+    },
+    {
+      "id": "model-e",
+      "name": "Model-E",
+      "img": "https://storage.googleapis.com/modern-doors-models/model-5.jpeg"
+    },
+    {
+      "id": "model-f",
+      "name": "Model-F",
+      "img": "https://storage.googleapis.com/modern-doors-models/model-6.jpeg"
+    }
+  ]
+}
