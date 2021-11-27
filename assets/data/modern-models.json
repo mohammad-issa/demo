@@ -11,6 +11,11 @@
       "img": "https://storage.googleapis.com/modern-doors-models/model-3.jpeg"
     },
     {
+      "id": "model-d",
+      "name": "Model-D",
+      "img": "https://storage.googleapis.com/modern-doors-models/model-4.jpeg"
+    },
+    {
       "id": "model-e",
       "name": "Model-E",
       "img": "https://storage.googleapis.com/modern-doors-models/model-5.jpeg"
