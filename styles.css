@@ -30,16 +30,16 @@
   left: 34px;
   position: absolute;
   top: 50%;
-  transform: translateY(calc(-50% + 50px));
+  transform: translateY(calc(-50% + 70px));
   z-index: 15;
 }
 .short-handle {
-  height: 54px;
-  width: 64px;
+  height: 42px;
+  width: 50px;
 }
 .long-handle {
-  height: 366px;
-  width: 49px;
+  height: 277px;
+  width: 40px;
 }
 .drag-over::before {
   background: #279cff;
