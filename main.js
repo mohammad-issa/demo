@@ -1827,7 +1827,7 @@ ModernModelBComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵde
 /*! exports provided: models, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"models\":[{\"id\":\"model-a\",\"name\":\"Model A\",\"img\":\"https://storage.googleapis.com/modern-doors-models/Model-1.jpg\"},{\"id\":\"model-b\",\"name\":\"Model B\",\"img\":\"https://storage.googleapis.com/modern-doors-models/Model-2.jpg\"},{\"id\":\"model-c\",\"name\":\"Model C\",\"img\":\"https://storage.googleapis.com/modern-doors-models/Model-3.jpg\"},{\"id\":\"model-d\",\"name\":\"Model D\",\"img\":\"https://storage.googleapis.com/modern-doors-models/Model-4.jpg\"},{\"id\":\"model-e\",\"name\":\"Model E\",\"img\":\"https://storage.googleapis.com/modern-doors-models/Model-5.jpg\"},{\"id\":\"model-f\",\"name\":\"Model F\",\"img\":\"https://storage.googleapis.com/modern-doors-models/Model-6.jpg\"}]}");
+module.exports = JSON.parse("{\"models\":[{\"id\":\"model-a\",\"name\":\"MSD 1\",\"img\":\"https://storage.googleapis.com/modern-doors-models/Model-1.jpg\"},{\"id\":\"model-b\",\"name\":\"MSD 2\",\"img\":\"https://storage.googleapis.com/modern-doors-models/Model-2.jpg\"},{\"id\":\"model-c\",\"name\":\"MSD 3\",\"img\":\"https://storage.googleapis.com/modern-doors-models/Model-3.jpg\"},{\"id\":\"model-d\",\"name\":\"MSD 4\",\"img\":\"https://storage.googleapis.com/modern-doors-models/Model-4.jpg\"},{\"id\":\"model-e\",\"name\":\"MSD 5\",\"img\":\"https://storage.googleapis.com/modern-doors-models/Model-5.jpg\"},{\"id\":\"model-f\",\"name\":\"MSD 6\",\"img\":\"https://storage.googleapis.com/modern-doors-models/Model-6.jpg\"}]}");
 
 /***/ }),
 
