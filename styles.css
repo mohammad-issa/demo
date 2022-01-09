@@ -30,7 +30,7 @@
   left: 34px;
   position: absolute;
   top: 50%;
-  transform: translateY(calc(-50% + 70px));
+  transform: translateY(calc(-50% + 44px));
   z-index: 15;
 }
 .short-handle {
