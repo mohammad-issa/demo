@@ -2,33 +2,33 @@
   "models": [
     {
       "id": "model-a",
-      "name": "Model-A",
-      "img": "https://storage.googleapis.com/modern-doors-models/model-1.jpeg"
+      "name": "Model A",
+      "img": "https://storage.googleapis.com/modern-doors-models/Model-1.jpg"
     },
     {
       "id": "model-b",
-      "name": "Model-B",
-      "img": "https://storage.googleapis.com/modern-doors-models/model-2.jpeg"
+      "name": "Model B",
+      "img": "https://storage.googleapis.com/modern-doors-models/Model-2.jpg"
     },
     {
       "id": "model-c",
-      "name": "Model-C",
-      "img": "https://storage.googleapis.com/modern-doors-models/model-3.jpeg"
+      "name": "Model C",
+      "img": "https://storage.googleapis.com/modern-doors-models/Model-3.jpg"
     },
     {
       "id": "model-d",
-      "name": "Model-D",
-      "img": "https://storage.googleapis.com/modern-doors-models/model-4.jpeg"
+      "name": "Model D",
+      "img": "https://storage.googleapis.com/modern-doors-models/Model-4.jpg"
     },
     {
       "id": "model-e",
-      "name": "Model-E",
-      "img": "https://storage.googleapis.com/modern-doors-models/model-5.jpeg"
+      "name": "Model E",
+      "img": "https://storage.googleapis.com/modern-doors-models/Model-5.jpg"
     },
     {
       "id": "model-f",
-      "name": "Model-F",
-      "img": "https://storage.googleapis.com/modern-doors-models/model-6.jpeg"
+      "name": "Model F",
+      "img": "https://storage.googleapis.com/modern-doors-models/Model-6.jpg"
     }
   ]
 }

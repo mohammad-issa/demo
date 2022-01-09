@@ -3,12 +3,12 @@
     {
       "id": "modern",
       "name": "Modern",
-      "img": "https://storage.googleapis.com/modern-doors-models/model-1.jpeg"
+      "img": "https://storage.googleapis.com/modern-doors-models/Model-1.jpg"
     },
     {
       "id": "classic",
       "name": "Classic",
-      "img": "https://storage.googleapis.com/modern-doors-models/model-1.jpeg"
+      "img": "https://storage.googleapis.com/modern-doors-models/Classic-1.jpg"
     }
   ]
 }
