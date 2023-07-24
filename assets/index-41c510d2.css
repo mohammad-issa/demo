@@ -1,0 +1,1 @@
+html{position:fixed;font-family:Raleway,sans-serif}body{margin:0}.wrapper{display:flex}.panel{padding:12px;width:360px}.panel .row-title{margin-top:0;user-select:none}.panel .row-wrapper{display:grid;grid-template-columns:repeat(3,1fr);row-gap:20px}canvas{width:100%}.panel-item{background-position:center;background-size:cover;border-radius:4px;height:100px;width:100px}
